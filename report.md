@@ -21,10 +21,18 @@
 7. Далее следую инструкции по установке
 8. После завершения установки, при помощи терминала проверяю версию установленной Java. 
 9. Для этого ввожу команду java -version
+10. Далее проверяем как работает приложение, для начала скачиваем KeyValidator по ссылке указанной в руководстве использования.
+11. Скачанный файл перемещаю в локальный репозиторий.
+12. Ввожу команду в терминале git add keyvalidator.class
+13. Далее команда git commit -m „comment“
+14. Затем приступаю к проверку ключей при помощи команды java keyvalidator …… (на месте многоточий ставлю номера указанные в руководстве).
+ 
 
 В качестве тестовых данных использовались данные:
 * <Инструкция по установке OpenJDK11> [ссылка](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md).
+* <Руководство использования KeyValidator> [ссылка] (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class)
 
 Тестирование производилось в следующем окружении:
 * <macOS Sierra, Version 10.12.6 (16G29)>
 * <Java 11.0.8>
+* <KeyValidator.class>
