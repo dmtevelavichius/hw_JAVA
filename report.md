@@ -25,7 +25,7 @@
 11. Скачанный файл перемещаю в локальный репозиторий.
 12. Ввожу команду в терминале git add keyvalidator.class
 13. Далее команда git commit -m „comment“
-14. Затем приступаю к проверку ключей при помощи команды java keyvalidator …… (на месте многоточий ставлю номера указанные в руководстве).[скриншот](https://github.com/dmtevelavichius/hw_JAVA/blob/master/keyvalidator.png)
+14. Затем приступаю к проверку ключей при помощи команды java keyvalidator …… (на месте многоточий ставлю номера указанные в руководстве). ![скриншот](https://github.com/dmtevelavichius/hw_JAVA/blob/master/keyvalidator.png)
  
 
 В качестве тестовых данных использовались данные:
