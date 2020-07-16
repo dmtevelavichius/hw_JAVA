@@ -29,7 +29,6 @@
  
 
 В качестве тестовых данных использовались данные:
-* <Инструкция по установке OpenJDK11> [ссылка](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md).
 * <Руководство использования KeyValidator> [ссылка](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class)
 
 Тестирование производилось в следующем окружении:
